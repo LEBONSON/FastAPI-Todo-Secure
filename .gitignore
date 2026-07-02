@@ -1,0 +1,33 @@
+# IDE / Editeurs
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers sensibles / logs
+.env
+*.log
+db.sqlite3
+*.db
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
