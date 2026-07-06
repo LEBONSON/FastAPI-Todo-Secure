@@ -131,3 +131,4 @@ Ce projet est avant tout un outil pédagogique. Si vous souhaitez proposer des a
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
+é
