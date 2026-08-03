@@ -1,6 +1,5 @@
 from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
-
 import crud.tache
 from db.database import SessionLocal
 from schemas.tacheCreation import TacheCreation
